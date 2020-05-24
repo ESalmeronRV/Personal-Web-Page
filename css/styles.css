@@ -1,0 +1,155 @@
+body {
+  position: relative;
+  margin: 0;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+  color: #625772;
+  margin: 0 auto 0 auto;
+  padding-top: 150px;
+  padding-bottom: 50px;
+}
+
+h2 {
+  color: #625772;
+  margin-top: 0;
+  padding-bottom: 50px;
+  padding-top: 50px;
+}
+
+h3 {
+  color: #625772;
+  width: 50%;
+  margin: 0 auto 0 auto;
+}
+
+/*--------------------- CLASSES ----------------------*/
+.top-frame {
+  position: relative;
+  background-color: #a9eee6;
+  padding-bottom: 100px;
+}
+
+.mid-frame {
+  position: relative;
+  background-color: #fefaec;
+  width: 100%;
+}
+
+.mid-frame-1 {
+  position: relative;
+  background-color: #fefaec;
+  width: 50%;
+  margin: 0 auto 0 auto;
+  padding-bottom: 100px;
+}
+
+.mid-frame-2 {
+  position: relative;
+  background-color: #fefaec;
+  width: 50%;
+  margin: 0 auto 0 auto;
+  padding-bottom: 50px;
+}
+
+.bot-frame {
+  position: relative;
+  clear: left;
+  background-color: #fefaec;
+}
+
+.bot-frame-1 {
+  position: relative;
+  clear: left;
+  background-color: #fefaec;
+}
+
+.bot-frame-2 {
+  position: relative;
+  clear: left;
+  background-color: #fefaec;
+}
+
+.main-text {
+  line-height: 2em;
+  margin: 0 auto 0 auto;
+  width: 50%;
+  text-align: left;
+}
+
+.list-text {
+  text-align: center;
+  line-height: 1.5em;
+  margin: 0 auto 0 auto;
+  clear: both;
+}
+
+.engineer-img {
+  width: 25%;
+  float: left;
+}
+
+.videogame-img {
+  width: 25%;
+  float: left;
+}
+
+.toy-img {
+  width: 25%;
+  margin-left: 30px;
+  float: right;
+}
+
+.skills-img {
+  width: 25%;
+  margin-left: 30px;
+  float: right;
+}
+
+.esteban-img {
+  border-radius: 100%;
+  width: 20%;
+}
+
+.header-left {
+  text-align: left;
+  line-height: 2em;
+  margin: 0 auto 0 auto;
+
+}
+
+.header-right {
+  text-align: right;
+  line-height: 2em;
+  margin: 0 auto 0 auto;
+}
+
+.gears1{
+  left: 300px;
+  top: 50px;
+  width: 5%;
+  position: absolute;
+}
+.gears2{
+  right: 300px;
+  width: 5%;
+  position: absolute;
+}
+
+.hr-grey {
+    border-style: dotted;
+    border-width: 3px;
+    border-color: #625772;
+    width: 2%;
+    text-align: center;
+    border-bottom: 0;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+.bottom-container{
+  background-color: #f38181;
+  font-size: 0.7em;
+}
